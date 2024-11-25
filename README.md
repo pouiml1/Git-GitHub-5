@@ -1,1 +1,1 @@
-salut REMOTE
+salut LOCAL
